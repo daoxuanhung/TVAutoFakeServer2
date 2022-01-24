@@ -1,4 +1,4 @@
-# TVAutoFakeServer2
+# TVAutoFakeServer2 - hỗ trợ đến bản 3.9.4
  
 ## Hướng dẫn sử dụng:
 1. Tải crack kèm auto tại link sau: https://github.com/daoxuanhung/TVAutoFakeServer2/releases/download/v1.0/TVAutoFakeServer2.zip
